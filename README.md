@@ -167,8 +167,8 @@ Make sure the following are installed:
 ### Installation & Run Steps
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/your-username/Learning-React-Concepts.git
-    cd Learning-React-Concepts/PropsAndStates
+    git clone https://github.com/Imtiaz-Ali17314/Learning-React-Concepts
+    cd Learning-React-Concepts
     ```
 2.  **Install Node Dependencies**:
     ```bash
