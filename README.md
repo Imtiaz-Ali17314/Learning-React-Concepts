@@ -167,7 +167,7 @@ Make sure the following are installed:
 ### Installation & Run Steps
 1.  **Clone the Repository**:
     ```bash
-    git clone https://github.com/Imtiaz-Ali17314/Learning-React-Concepts
+    git clone https://github.com/Imtiaz-Ali17314/Learning-React-Concepts.git
     cd Learning-React-Concepts
     ```
 2.  **Install Node Dependencies**:
